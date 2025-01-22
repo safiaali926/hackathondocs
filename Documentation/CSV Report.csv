@@ -1,0 +1,20 @@
+Test Case ID ,Expected Result ,Actual Result ,Status ,Severity 
+"TC001 
+","Only items matching 
+the selected 
+category should 
+display. ",Passed ,Passed ,Medium 
+TC002 ,"Search results should 
+match the entered 
+keywords.  ",Passed,Passed,High
+TC003,"Items should add, 
+update, and remove 
+correctly in the cart. ",Passed,Passed,High
+TC004,"Form should display 
+errors for incomplete 
+or invalid fields. ",Passed,Passed,High
+TC005,"Products should load 
+within 2 seconds. ",Passed,Passed,Medium
+TC006,"Display ""No products 
+available"" when API 
+fails. ",Passed,Passed,Medium
